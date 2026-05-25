@@ -59,15 +59,6 @@ Input → Processing → Comparison → Output
 python brain_vs_computer.py
 ---
 
-## 📊 Comparison Details
 
-| Human Brain | Computer |
-|-------------|-----------|
-| Thinks creatively | Works logically |
-| Has emotions | No emotions |
-| Learns from experience | Learns from programming/data |
-| Slower calculations | Faster calculations |
-| Can make independent decisions | Follows instructions |
-````
 
 
