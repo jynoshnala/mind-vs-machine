@@ -55,6 +55,8 @@ Input → Processing → Comparison → Output
 
 ## 💻 Code
 
+``` bash
+python brain_vs_computer.py
 ---
 
 ## 📊 Comparison Details
